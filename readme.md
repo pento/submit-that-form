@@ -2,8 +2,6 @@
 
 > A browser extension reminding you to submit those unsubmitted forms.
 
-![Sample extension output](media/previewer.png)
-
 ## Features
 
 - Proof of concept, mostly.
