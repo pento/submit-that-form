@@ -31,7 +31,7 @@
 	},
 	"dependencies": {
 		"webext-options-sync": "^2.0.1",
-		"webextension-polyfill": "^0.7.0"
+		"webextension-polyfill": "^0.8.0"
 	},
 	"devDependencies": {
 		"@parcel/config-webextension": "^2.0.0-nightly.2220",
@@ -41,6 +41,7 @@
 		"@parcel/packager-html": "^2.0.0-nightly.599",
 		"@parcel/transformer-css": "^2.0.0-nightly.599",
 		"@parcel/transformer-html": "^2.0.0-nightly.598",
+		"@parcel/transformer-image": "^2.0.0-nightly.2393",
 		"@parcel/transformer-postcss": "^2.0.0-nightly.599",
 		"@parcel/transformer-posthtml": "^2.0.0-nightly.598",
 		"@parcel/transformer-webextension": "^2.0.0-nightly.2220",
